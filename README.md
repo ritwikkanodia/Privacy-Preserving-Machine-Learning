@@ -23,7 +23,7 @@ The dataset can be found at the following link: https://www.kaggle.com/mlg-ulb/c
 
 
 ### After Adding Tensorflow Privacy:
-![After Adding Privacy](img/federated_privacy.png)
+![After Adding Privacy](img/federatedtprivacy.png)
 
 ## Authors
 1. Numair Fazili
